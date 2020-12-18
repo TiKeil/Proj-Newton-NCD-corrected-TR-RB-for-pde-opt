@@ -1,0 +1,3 @@
+[submodule "pymor"]
+	path = pymor
+	url = https://github.com/TiKeil/pymor.git
